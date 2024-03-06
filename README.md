@@ -1,1 +1,1 @@
-theme: jekyll-theme-minimal
+GEOG 490: Top R Earth System Science 
